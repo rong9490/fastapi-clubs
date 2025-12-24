@@ -45,6 +45,8 @@
   fastapi --version
   fastapi dev main.py
   pip install fastapi[standard]
-  pip install --upgrade pip  
+  pip install --upgrade pip
+  
+  podman version 5.4.2
 
 ```
