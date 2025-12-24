@@ -1,6 +1,7 @@
 ```
   哔哩哔哩课程Fastapi: https://www.bilibili.com/video/BV1eKpizeEnb
   10月1日
+
 ```
 
 ```
@@ -38,6 +39,8 @@
   pip install fastapi==0.115.12
   pip install uvicoron==0.34.2
 
+  pip install copier
+
 ```
 
 ```
@@ -46,7 +49,15 @@
   fastapi dev main.py
   pip install fastapi[standard]
   pip install --upgrade pip
-  
+
+```
+
+```
+  Podman Desktop 教程文档
+  https://desktop.podman.org.cn/tutorial
+  https://podman.io/docs
   podman version 5.4.2
+
+  管理登录: Red Hat Authentication
 
 ```
