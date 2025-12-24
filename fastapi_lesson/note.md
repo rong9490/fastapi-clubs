@@ -25,6 +25,11 @@
   added / updated specs:
     - python=3.12
   The following packages will be downloaded:
+
+  虚拟环境已激活: Python 3.12 fastapi_env; Conda
+  借用AI生产代码: 通义领码插件
+
+  理解 SwaggerUI 与 OpenAPI 的关系
 ```
 
 ```
@@ -32,5 +37,14 @@
   pip install fastapi[standard]
   pip install fastapi==0.115.12
   pip install uvicoron==0.34.2
+
+```
+
+```
+  命令笔记:
+  fastapi --version
+  fastapi dev main.py
+  pip install fastapi[standard]
+  pip install --upgrade pip  
 
 ```
